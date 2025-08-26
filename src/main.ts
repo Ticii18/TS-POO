@@ -2,14 +2,14 @@ import { Libro } from "./models/Libro";
 import { Revista } from "./models/Revista";
 import { Usuario } from "./models/Usuario";
 
-const libro1 = new Libro(1, "Don Quijote", "Miguel de Cervantes Saavedra", 618, "Novela", false);
-const libro2 = new Libro(2, "El Principito", "Antoine de Saint-Exupéry", 96, "Novela", true);
+const libro1 = new Libro(1, "Don Quijote", "Miguel de Cervantes Saavedra", 618, "Novela");
+const libro2 = new Libro(2, "Spiderman", "Peter Parker", 77, "Ficcion - Accion");
 
 
-const revista1 = new Revista(3, "National Geographic", "Varios", "Agosto 2025");
+const revista1 = new Revista(3, "National Geographic", "Varios", "Agosto 2005");
 
 
-const usuario1 = new Usuario(1, "Juan Pérez");
+const usuario1 = new Usuario(1, "Ticiano Vera");
 
 
 
