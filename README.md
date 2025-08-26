@@ -6,7 +6,7 @@ Este proyecto es una aplicación básica de consola para la gestión de una bibl
 
 ## Estructura del Proyecto
 
-    ```
+```
 
 POO-TS/
 ├── src/
@@ -22,33 +22,33 @@ POO-TS/
 ├── package.json
 ├── tsconfig.json
 └── nodemon.json
-    ```
+```
 
 ## Instalación y Ejecución
 
 1. Instala las dependencias:
 
-        ```bash
+```bash
         npm install
-        ```
+```
 
 2. Compila el proyecto:
 
-        ```bash
+```bash
         npx tsc
-        ```
+```
 
 3. Ejecuta el código compilado:
 
-        ```bash
+```bash
         node dist/main.js
-        ```
+```
 
    O ejecuta directamente con ts-node:
 
-        ```bash
+```bash
         npx ts-node src/main.ts
-        ```
+```
 
 ## Investigación
 
@@ -76,7 +76,7 @@ POO-TS/
 
 #### a. Función con parámetros obligatorios y opcionales
 
-    ```typescript
+```typescript
     function saludar(nombre: string, edad?: number): void {
     if (edad) {
         console.log(`Hola, ${nombre}. Tienes ${edad} años.`);
@@ -84,14 +84,15 @@ POO-TS/
         console.log(`Hola, ${nombre}.`);
     }
     }
-    ```
+```
 
 #### b. Función que devuelve una Promise
 
-    ```typescript
+```typescript
     function obtenerDatos(): Promise<string> {
     return new Promise(resolve => {
         setTimeout(() => resolve("Datos listos"), 1000);
     });
     }
-    ```
+```
+
