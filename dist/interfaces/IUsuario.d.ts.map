@@ -1,0 +1,1 @@
+{"version":3,"file":"IUsuario.d.ts","sourceRoot":"","sources":["../../src/interfaces/IUsuario.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,uBAAuB,CAAC;AAEtD,MAAM,WAAW,QAAQ;IACrB,EAAE,EAAE,MAAM,CAAC;IACX,MAAM,EAAE,MAAM,CAAC;IACf,OAAO,CAAC,QAAQ,EAAE,QAAQ,GAAG,IAAI,CAAC;CACrC"}

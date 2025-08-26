@@ -1,0 +1,1 @@
+{"version":3,"file":"Revista.d.ts","sourceRoot":"","sources":["../../src/models/Revista.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,eAAe,CAAC;AAEzC,qBAAa,OAAQ,SAAQ,QAAQ;IAKtB,OAAO,EAAE,MAAM;gBAHtB,EAAE,EAAE,MAAM,EACV,MAAM,EAAE,MAAM,EACd,KAAK,EAAE,MAAM,EACN,OAAO,EAAE,MAAM,EACtB,UAAU,GAAE,OAAc;IAM9B,WAAW,IAAI,IAAI;CAOtB"}
